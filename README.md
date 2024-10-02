@@ -1,4 +1,6 @@
 ### Hi 👋
+
+a quick introduction "the techy way":
 ```
 human = {
     'name': 'Mika Kreienbühl',
