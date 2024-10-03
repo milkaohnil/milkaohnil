@@ -4,7 +4,7 @@ a quick introduction "the techy way":
 ```
 human = {
     'name': 'Mika Kreienbühl',
-    'awards': 'Cloud Engineer - Microsoft Cloud',
+    'job': 'Cloud Engineer - Microsoft Cloud',
     'certifications': ['Endpoint Administrator Associate', 'Enterprise Administrator Expert'],
     'loves': ['sport', 'carnival', 'politics']
 }
